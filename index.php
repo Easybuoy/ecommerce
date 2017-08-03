@@ -15,9 +15,9 @@
     </head>
 <body>
 <!-- Top Nav Bar -->
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
-      <a href="#" class="navbar-brand"><img src="images/logo.jpg" style="max-width: 250px; margin: -7px;"</a>
+      <a href="#" class="navbar-brand">Quest Store</a>
       <ul class="nav navbar-nav">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Men<span class="caret"></span></a>
@@ -29,6 +29,7 @@
           </li>
         </ul>
       </ul>
+
     </div>
 </nav>
 <!--Header -->
