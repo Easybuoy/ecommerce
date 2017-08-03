@@ -1,0 +1,27 @@
+#div1{
+
+    top:150px;
+    margin: 0 150px;
+    width:450px;
+    height: auto;
+
+}
+
+#inputSuccess1{
+
+}
+.form{
+    position:relative;
+    top:200px;
+    margin-top: 5px;
+    margin: 0 10px;
+    width:350px;
+    height: auto;
+    border: 0px solid #f4f4f4;
+    box-shadow: #0f0f0f;
+}
+form input{
+    width:250px;
+    margin: 5px;
+}
+
