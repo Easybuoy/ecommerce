@@ -24,7 +24,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="" class="navbar-brand"><img src="images/logo.png" style="max-width: 150px; margin-top: -7px;"> </a>
+            <a href=""  class="navbar-brand"><img id=class="img-responsive2" src="images/logo.png" style="max-width: 150px; margin-top: -30px; "> </a>
         </div>
 <div class="collapse navbar-collapse" id="myNavbar">
     <div class="navbar-header">
